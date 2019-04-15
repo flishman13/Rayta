@@ -28,7 +28,6 @@ C:\Users\egannon\source\repos\Rayta\Rayta\bin\Debug\netstandard2.0\Microsoft.Ext
 C:\Users\egannon\source\repos\Rayta\Rayta\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
 C:\Users\egannon\source\repos\Rayta\Rayta\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
 C:\Users\egannon\source\repos\Rayta\Rayta\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
-C:\Users\egannon\source\repos\Rayta\Rayta\obj\Debug\netstandard2.0\Rayta.csprojAssemblyReference.cache
 C:\Users\egannon\source\repos\Rayta\Rayta\obj\Debug\netstandard2.0\Rayta.csproj.CoreCompileInputs.cache
 C:\Users\egannon\source\repos\Rayta\Rayta\obj\Debug\netstandard2.0\Rayta.RazorComponent.input.cache
 C:\Users\egannon\source\repos\Rayta\Rayta\obj\Debug\netstandard2.0\RazorDeclaration\App.cshtml.g.cs
