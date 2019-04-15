@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://ftp.site4now.net/raymondta</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Microsoft.AspNetCore.Blazor.dll">
+      <publishTime>03/04/2019 14:34:12</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Components.Browser.dll">
+      <publishTime>03/04/2019 04:04:54</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Components.dll">
+      <publishTime>03/04/2019 04:04:46</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>03/04/2019 01:03:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>03/04/2019 01:03:28</publishTime>
+    </File>
+    <File Include="Microsoft.JSInterop.dll">
+      <publishTime>03/04/2019 01:06:10</publishTime>
+    </File>
+    <File Include="Mono.WebAssembly.Interop.dll">
+      <publishTime>03/04/2019 01:06:14</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/bootstrap/bootstrap.min.css">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/bootstrap/bootstrap.min.css.map">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/FONT-LICENSE">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/font/css/open-iconic-bootstrap.min.css">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/font/fonts/open-iconic.eot">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/font/fonts/open-iconic.otf">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/font/fonts/open-iconic.svg">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/font/fonts/open-iconic.ttf">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/font/fonts/open-iconic.woff">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/ICON-LICENSE">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/open-iconic/README.md">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/css/site.css">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/index.html">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/sample-data/weather.json">
+      <publishTime>04/15/2019 14:22:04</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/blazor.boot.json">
+      <publishTime>04/15/2019 14:27:55</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/components.server.js">
+      <publishTime>03/04/2019 14:29:48</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/components.webassembly.js">
+      <publishTime>03/04/2019 14:29:48</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/wasm/mono.js">
+      <publishTime>02/04/2019 15:40:52</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/wasm/mono.wasm">
+      <publishTime>02/04/2019 15:40:52</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Microsoft.AspNetCore.Blazor.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Microsoft.AspNetCore.Components.Browser.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Microsoft.AspNetCore.Components.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Microsoft.JSInterop.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Mono.WebAssembly.Interop.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/mscorlib.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Rayta.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/Rayta.pdb">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/System.ComponentModel.Annotations.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/System.Core.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/System.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="Rayta/dist/_framework/_bin/System.Net.Http.dll">
+      <publishTime>04/15/2019 14:27:54</publishTime>
+    </File>
+    <File Include="System.ComponentModel.Annotations.dll">
+      <publishTime>02/28/2019 19:59:56</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/15/2019 14:28:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
