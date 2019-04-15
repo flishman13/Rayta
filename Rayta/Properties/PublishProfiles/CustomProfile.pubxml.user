@@ -89,52 +89,52 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/04/2019 15:40:52</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Microsoft.AspNetCore.Blazor.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Microsoft.AspNetCore.Components.Browser.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Microsoft.AspNetCore.Components.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Microsoft.JSInterop.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Mono.WebAssembly.Interop.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/mscorlib.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Rayta.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/Rayta.pdb">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/System.ComponentModel.Annotations.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/System.Core.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:36</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/System.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:35</publishTime>
     </File>
     <File Include="Rayta/dist/_framework/_bin/System.Net.Http.dll">
-      <publishTime>04/15/2019 14:33:18</publishTime>
+      <publishTime>04/15/2019 14:41:36</publishTime>
     </File>
     <File Include="System.ComponentModel.Annotations.dll">
       <publishTime>02/28/2019 19:59:56</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>04/15/2019 14:33:30</publishTime>
+      <publishTime>04/15/2019 14:41:45</publishTime>
     </File>
   </ItemGroup>
 </Project>
